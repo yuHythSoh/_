@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xax_0\\source\\repos\\_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A31F29E5-5BF9-493A-B462-BF0DCC573822}|MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad\\MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad.csproj|c:\\users\\xax_0\\source\\repos\\_\\miramuratiess\u00F3lounadetantasalasquenoselesdi\u00F3esaoportunidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31F29E5-5BF9-493A-B462-BF0DCC573822}|MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad\\MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad.csproj|solutionrelative:miramuratiess\u00F3lounadetantasalasquenoselesdi\u00F3esaoportunidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F53314-D2C9-43A1-A3A6-608933AF421F}|_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9\\_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9.csproj|C:\\Users\\xax_0\\source\\repos\\_\\_x\u00ED_r\u00E9xi_xi_r\u00E1r\u00E1_x\u00E9\\_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F53314-D2C9-43A1-A3A6-608933AF421F}|_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9\\_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9.csproj|solutionrelative:_x\u00ED_r\u00E9xi_xi_r\u00E1r\u00E1_x\u00E9\\_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101CBD7A-B52D-4D98-9C16-281D44E9B8D1}|_\\_.csproj|C:\\Users\\xax_0\\source\\repos\\_\\_\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101CBD7A-B52D-4D98-9C16-281D44E9B8D1}|_\\_.csproj|solutionrelative:_\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101CBD7A-B52D-4D98-9C16-281D44E9B8D1}|_\\_.csproj|C:\\Users\\xax_0\\source\\repos\\_\\_\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{101CBD7A-B52D-4D98-9C16-281D44E9B8D1}|_\\_.csproj|solutionrelative:_\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xax_0\\source\\repos\\_\\MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad\\Program.cs",
+              "RelativeDocumentMoniker": "MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad\\Program.cs",
+              "ToolTip": "C:\\Users\\xax_0\\source\\repos\\_\\MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad\\Program.cs",
+              "RelativeToolTip": "MiraMuratiEsS\u00F3loUnaDeTantasALasQueNoSeLesDi\u00F3EsaOportunidad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:12:17.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xax_0\\source\\repos\\_\\_\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "_\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xax_0\\source\\repos\\_\\_\\MainPage.xaml.cs",
+              "RelativeToolTip": "_\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:55:55.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xax_0\\source\\repos\\_\\_\\MainPage.xaml",
+              "RelativeDocumentMoniker": "_\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\xax_0\\source\\repos\\_\\_\\MainPage.xaml",
+              "RelativeToolTip": "_\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T21:49:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_.cs",
+              "DocumentMoniker": "C:\\Users\\xax_0\\source\\repos\\_\\_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9\\_.cs",
+              "RelativeDocumentMoniker": "_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9\\_.cs",
+              "ToolTip": "C:\\Users\\xax_0\\source\\repos\\_\\_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9\\_.cs",
+              "RelativeToolTip": "_x\u00ED_R\u00E9xi_Xi_R\u00E1r\u00E1_x\u00E9\\_.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:25:16.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
