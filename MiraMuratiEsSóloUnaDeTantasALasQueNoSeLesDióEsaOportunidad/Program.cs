@@ -29,14 +29,15 @@ namespace MiraMuratiEsSóloUnaDeTantasALasQueNoSeLesDióEsaOportunidad
 
         }
 
-        private String[] traductordéCaracteresPalabrasóFrasesUniversal(String put)
+        /// <summary>Entorno Teórico Metafórico entre esta función o método visto como mi servidor público o replicas que se comunican con él de forma "instantánea" en eso del internet o red cualquiera a cual entidimiento invalidado o no garantista espera, como célula durmiente en memoria y parecer desapercibidos, según terceros/as o asociados/as, sea en otros aplicativos, servicios.. que la usen pero no sepan ni cómo funciona, ni cómo se hace u otro entorno hostil, suplantado o que cambió de parecer, donde matricialmente añade cambios en su matriz inteligente hecha de forma articial,</summary>
+        private String[] traductorAdéCaracteresPalabrasóFrasesUniversal(String putA)
         {
             Int64 re = 1;
 
 
 
             String[] reput = new String[re];
-            return reput;
+            return reputA;
         }
     }
 }
